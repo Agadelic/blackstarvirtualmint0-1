@@ -1,7 +1,7 @@
 require('dotenv').config()
 
-module.exports = {
-  siteMetadata: {
+module.exports = {https://github.com/Agadelic/Blackstarvirtualmint.git 
+                 siteMetadata: {
     title: `Creative Portfolio`,
   },
   plugins: [
