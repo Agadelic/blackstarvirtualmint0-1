@@ -2,7 +2,7 @@ require('dotenv').config()
 
 module.exports = {https://github.com/Agadelic/Blackstarvirtualmint.git 
                  siteMetadata: {
-    title: `Creative Portfolio`,
+    title: `Blackstarvirtualmint.com people of color finance data input output digital to domestic real time virtual finance stream and accounting`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
